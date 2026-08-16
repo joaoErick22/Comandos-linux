@@ -1,0 +1,21 @@
+comandos para utilizacao bash linux
+
+cd     #entrar em pastas e direorios
+cd arquivos
+===========
+
+ls     # mostrar local atual
+===========
+
+cd..   #voltar um caminho
+===========
+
+mkdir  #criar uma pasta vazia
+mkdir pasta_vazia
+===========
+
+rmdir #remover pasta vazia
+rmdir pasta_vazia
+===========
+
+
